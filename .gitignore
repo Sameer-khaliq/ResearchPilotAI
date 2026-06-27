@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.vscode
+# Persisted vector DBs
+day12/chroma_db/
+day18/chroma_db/
+*.db
