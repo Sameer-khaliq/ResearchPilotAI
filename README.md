@@ -1,14 +1,3 @@
----
-title: ResearchPilot AI
-emoji: 🔍
-colorFrom: indigo
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
 # 🔍 ResearchPilot AI
 
 An autonomous AI research agent that takes any topic, searches the web in real-time, reads 5 sources, and synthesizes a structured report in under 60 seconds.
