@@ -14,3 +14,4 @@ wheels/
 day12/chroma_db/
 day18/chroma_db/
 *.db
+.gradio/
